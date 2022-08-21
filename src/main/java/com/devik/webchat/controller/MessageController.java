@@ -1,6 +1,6 @@
-package com.dailycodebuffer.websocket.controller;
+package com.devik.webchat.controller;
 
-import com.dailycodebuffer.websocket.model.Template;
+import com.devik.webchat.model.Template;
 import org.springframework.messaging.handler.annotation.MessageMapping;
 import org.springframework.messaging.handler.annotation.SendTo;
 import org.springframework.stereotype.Controller;

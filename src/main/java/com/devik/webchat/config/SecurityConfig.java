@@ -1,4 +1,4 @@
-package com.dailycodebuffer.websocket.config;
+package com.devik.webchat.config;
 
 import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
